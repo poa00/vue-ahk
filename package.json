@@ -15,13 +15,13 @@
     "node-blockly": "1.0.36",
     "typeface-roboto": "0.0.75",
     "vue": "^2.6.10",
-    "vuetify": "^2.0.10",
+    "vuetify": "^2.6.10",
     "vuex": "^3.1.1"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.11.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
     "@vue/cli-plugin-eslint": "^3.11.0",
-    "@vue/cli-service": "^3.11.0",
+    "@vue/cli-service": "^5.0.8",
     "babel-eslint": "^10.0.2",
     "eslint": "^6.2.2",
     "eslint-config-airbnb-base": "^14.0.0",
